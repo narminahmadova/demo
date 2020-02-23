@@ -1,0 +1,54 @@
+
+ul{
+list-style: none;
+margin: 10px;
+padding: 10px;
+}
+#f{
+    color:hotpink;
+    background-color: indianred;
+    margin: 10px;
+    padding: 10px;
+}
+#para2{
+color: lawngreen;
+background-color: green;
+margin: 10px;
+    padding: 10px;
+}
+#para3{
+    color: red;
+    background-color:#FF5733;
+    margin: 10px;
+    padding: 10px;
+    }
+#para4{
+    color: blue;
+    background-color: lightblue;
+    margin: 10px;
+    padding: 10px;
+}
+#para5{
+    color: grey;
+    background-color: lightgrey;
+    margin: 10px;
+    padding: 10px;
+}
+#para6{
+    color: #FF33D4;
+    background-color: #F17AD8;
+    margin: 10px;
+    padding: 10px;
+}
+#para7{
+    color: #8C7587;
+    background-color: #291825;
+    margin: 10px;
+    padding: 10px;
+}
+#para8{
+    color: #22C5E2;
+    background-color: #ABDAE3;
+    margin: 10px;
+    padding: 10px;
+    }
